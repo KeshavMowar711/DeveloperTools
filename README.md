@@ -1,2 +1,8 @@
-# DeveloperTools
-We'll begin by creating our application using Vite and installing and setting up tailwind css in our project. Then we will work on creating Navbar which is fully responsive and has a mobile drawer to display all links of the page. The website also contains a beautiful hero section which uses gradient text, to give a modern look to the site. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
